@@ -14,6 +14,8 @@ Antes de eso, debemos modificar la ubicación de ejecutarMotif.sh y moverlo a la
 
 /sst/scratch/src/sst-elements-library-13.0.0/
 
+El archivo ejecutaTODAS.sh ejecuta ejecutaSimulacion para todos los archivos .py que haya en un directorio. Por ello, es necesario mover todos los archivos que se quieran ejecutar simultáneamente al mismo y, junto a ellos, los dos ficheros mencionados anteriormente.
+
 #### ¿Cómo funciona?
 
 Una vez realizados los cambios previamente descritos en la estructura debemos:
